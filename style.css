@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.countdown {
+  font-size: 1.5em;
+}
+
+.bg-secondary {
+  background-color: #343a40 !important;
+}
